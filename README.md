@@ -1,7 +1,7 @@
 # A/C indicators
 **Problem statement**: The girls forget to turn off the A/C in their room when they go downstairs.
 
-**The solution**: A simple esphome based setup running on an ESP8266 with two leds that indicate if the girls rooms A/C on the first floor are on or off.
+**The solution**: An [ESPHome](https://esphome.io/) based setup running on ESP8266 with two leds that indicate if the girls rooms A/C on the first floor are on or off.
 
 **Details**:
 1. A/C on/off indication is provided by a Xiaomi [door sensor](https://www.aliexpress.com/item/32829391822.html) installed on the A/C flaps

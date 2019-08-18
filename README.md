@@ -8,6 +8,10 @@
 1. LEDs are defined as switches in [Home Assistant](https://www.home-assistant.io/)
 1. Home Assistant [automation](https://github.com/talsalmona/hass-config/blob/5a5dcffa59ede84e97ef37ceb1e34732eacc9302/automations.yaml#L118) to turn the LEDs on and off according to A/C state
 
-**Future Ideal Solution** (not implemented):
+
+
+
+## Future Ideal Solution 
+(not implemented)
 
 Have a **reliable** room presence indicator to turn off the A/C when there's no one in the room. No good solution out there AFAIK.

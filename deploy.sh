@@ -1,3 +1,3 @@
 #!/bin/sh
-esphomeyaml livingroom.yaml run
+esphomeyaml ac-indicator.yaml run
 

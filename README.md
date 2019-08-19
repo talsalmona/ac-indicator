@@ -8,8 +8,8 @@
 1. LEDs are defined as switches in [Home Assistant](https://www.home-assistant.io/)
 1. Home Assistant [automation](https://github.com/talsalmona/hass-config/blob/5a5dcffa59ede84e97ef37ceb1e34732eacc9302/automations.yaml#L118) to turn the LEDs on and off according to A/C state
 
-![esp](https://github.com/talsalmona/RoboDesk/blob/master/esp.jpg)
-![sensor](https://github.com/talsalmona/RoboDesk/blob/master/sensor.jpg)
+![ESP](https://github.com/talsalmona/ac-indicator/blob/master/esp.jpg)
+![Sensor](https://github.com/talsalmona/ac-indicator/blob/master/sensor.jpg)
 
 
 ## Future Ideal Solution 
